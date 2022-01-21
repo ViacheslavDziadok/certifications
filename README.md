@@ -1,37 +1,25 @@
 # Certificates
-This repository includes all my certificates obtained during online studies
+This repository includes all my certificates obtained during online studies and some jupyter notebooks related to the performed tasks
 
 My currently completed or ongoing online courses are: 
-## Year 2022
-| Name | Type | Organization | Duration |
-| --- | --- | --- | --- | --- |
-| Data Visualization with Tableau | Specialization | University of California, Davis | 24 weeks |
-## Year 2021
-| Name | Type | Organization | Duration |
-| --- | --- | --- | --- | --- |
-| [Data Structures and Algorithms][10] | Specialization | UC San Diego, HSE University | 30 weeks |
-| [AI for Medicine][11] | Specialization | DeepLearning.AI | 10 weeks |
-| [Investment Management][12] | Specialization | University of Geneva | 20 weeks |
-| [Machine Learning with Big Data][13] | Course | UC San Diego | 5 weeks |
-| [Financial Markets (with Honors)][14] | Course | Yale University | 7 weeks |
-| [Entry Certificate in Business Analysis™][15] | Professional | IIBA | 15 weeks |
-
-## Year 2020
-| Name | Type | Organization | Duration |
-| --- | --- | --- | --- | --- |
-| [Python for Everybody][1] | Specialization | University of Michigan | 32 weeks |
-| [Deep Learning][2] | Specialization | DeepLearning.AI | 17 weeks |
-| [DeepLearning.AI TensorFlow Developer][3] | Specialization | DeepLearning.AI | 16 weeks |
-| [Natural Language Processing][4] | Specialization | DeepLearning.AI | 16 weeks |
-| [TensorFlow: Data and Deployment][5] | Specialization | DeepLearning.AI | 16 weeks |
-| [Generative Adversarial Networks (GANs)][6] | Specialization | DeepLearning.AI | 10 weeks |
-| [Machine Learning][7] | Course | Stanford University | 10 weeks |
-| [SQL for Data Science][8] | Course | UC Davis | 4 weeks |
-
-## Year 2018
-| Name | Type | Organization | Duration |
-| --- | --- | --- | --- | --- |
-| [English C2 Proficient][0] | Competence | EFSET | 10+ years |
+| Name | Type | Organization | Duration | Date of Issue |
+| ------ | ------ | ------ | ------ | ------ |
+| Data Visualization with Tableau | Specialization | University of California, Davis | 24 weeks | 2022 |
+| [Data Structures and Algorithms][10] | Specialization | UC San Diego, HSE University | 30 weeks | 2021 |
+| [AI for Medicine][11] | Specialization | DeepLearning.AI | 10 weeks | 2021 |
+| [Investment Management][12] | Specialization | University of Geneva | 20 weeks | 2021 |
+| [Machine Learning with Big Data][13] | Course | UC San Diego | 5 weeks | 2021 |
+| [Financial Markets (with Honors)][14] | Course | Yale University | 7 weeks | 2021 |
+| [Entry Certificate in Business Analysis™][15] | Professional | IIBA | 15 weeks | 2021 |
+| [Python for Everybody][1] | Specialization | University of Michigan | 32 weeks | 2020 |
+| [Deep Learning][2] | Specialization | DeepLearning.AI | 17 weeks | 2020 |
+| [DeepLearning.AI TensorFlow Developer][3] | Specialization | DeepLearning.AI | 16 weeks | 2020 |
+| [Natural Language Processing][4] | Specialization | DeepLearning.AI | 16 weeks | 2020 |
+| [TensorFlow: Data and Deployment][5] | Specialization | DeepLearning.AI | 16 weeks | 2020 |
+| [Generative Adversarial Networks (GANs)][6] | Specialization | DeepLearning.AI | 10 weeks | 2020 |
+| [Machine Learning][7] | Course | Stanford University | 10 weeks | 2020 |
+| [SQL for Data Science][8] | Course | UC Davis | 4 weeks | 2020 |
+| [English C2 Proficient][0] | Competence | EFSET | 10+ years | 2018 |
 
 [0]: https://www.efset.org/cert/dVxJA4 "English C2 Proficient"
 [1]: https://www.coursera.org/account/accomplishments/specialization/certificate/4GXVL8Q2K6P3 "Python for Everybody"
