@@ -1,11 +1,11 @@
 # Certificates
 This repository includes all my certificates obtained during online studies and some jupyter notebooks related to the performed tasks
 
-My currently completed or ongoing online courses are: 
+My currently completed or ongoing MOOCs are: 
 | Name | Type | Organization | Duration | Date of Issue |
 | ------ | ------ | ------ | ------ | ------ |
-| Data Visualization with Tableau | Specialization | University of California, Davis | 24 weeks | 2022 |
-| [Data Structures and Algorithms][10] | Specialization | UC San Diego, HSE University | 30 weeks | 2021 |
+| Data Visualization with Tableau | Specialization | UC Davis | 24 weeks | 2022 |
+| [Data Structures and Algorithms][10] | Specialization | UC San Diego | 30 weeks | 2021 |
 | [AI for Medicine][11] | Specialization | DeepLearning.AI | 10 weeks | 2021 |
 | [Investment Management][12] | Specialization | University of Geneva | 20 weeks | 2021 |
 | [Machine Learning with Big Data][13] | Course | UC San Diego | 5 weeks | 2021 |
