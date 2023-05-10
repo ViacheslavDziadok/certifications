@@ -5,6 +5,7 @@ My currently completed or ongoing MOOCs are:
 | Name | Type | Organization | Duration | Date of Issue |
 | ------ | ------ | ------ | ------ | ------ |
 | Data Visualization with Tableau | Specialization | UC Davis | 24 weeks | 2023 |
+| Machine Learning Pipelines with Azure ML Studio[18] | Guided Project | Coursera | 2 hours | 2023
 | [HTML, CSS, and JavaScript for Web Development][17] | Course | Johns Hopkins University | 5 weeks | 2023 |
 | [English C2 Proficient][0] | Competence | EFSET | 15+ years | 2023 |
 | [Google Data Analytics][16] | Specialization | Google | 37 weeks | 2022 |
@@ -40,3 +41,4 @@ My currently completed or ongoing MOOCs are:
 [15]: https://badges.iiba.org/53ff1abe-e298-4226-a9f8-ba71cb864b69 "Entry Certificate in Business Analysis™"
 [16]: https://www.coursera.org/account/accomplishments/specialization/SY44CQC4V9JK "Google Data Analytics"
 [17]: https://www.coursera.org/account/accomplishments/verify/RJNUQ5TS7WT9 "HTML, CSS, and JavaScript for Web Development"
+[18]: https://www.coursera.org/account/accomplishments/verify/GYR3BDB8Z7E9 "Machine Learning Pipelines with Azure ML Studio"
