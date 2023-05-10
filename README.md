@@ -5,7 +5,7 @@ My currently completed or ongoing MOOCs are:
 | Name | Type | Organization | Duration | Date of Issue |
 | ------ | ------ | ------ | ------ | ------ |
 | Data Visualization with Tableau | Specialization | UC Davis | 24 weeks | 2023 |
-| Machine Learning Pipelines with Azure ML Studio[18] | Guided Project | Coursera | 2 hours | 2023
+| [Machine Learning Pipelines with Azure ML Studio][18] | Guided Project | Coursera | 2 hours | 2023
 | [HTML, CSS, and JavaScript for Web Development][17] | Course | Johns Hopkins University | 5 weeks | 2023 |
 | [English C2 Proficient][0] | Competence | EFSET | 15+ years | 2023 |
 | [Google Data Analytics][16] | Specialization | Google | 37 weeks | 2022 |
